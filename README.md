@@ -5,8 +5,6 @@ As any other developer who is learning a new technology or tool, I faced difficu
 
 To help other learns like me, I am creating this repository to have a collection of all useful snippets.
 
-Collection of Ionic Snippets, Code Pens and Fiddles
-
 ## Slide Box
-http://codepen.io/calendee/pen/Kcxaw - Dynamic Slides
-http://codepen.io/zarko/pen/OPMdxY/ - Improved Dynamic Slides
+   - http://codepen.io/calendee/pen/Kcxaw - Dynamic Slides
+   - http://codepen.io/zarko/pen/OPMdxY/ - Improved Dynamic Slides
