@@ -9,6 +9,9 @@ To help other learns like me, I am creating this repository to have a collection
 ## Network Connection
    - http://forum.ionicframework.com/t/ion-network-directive/4647
 
+## Popover
+   - http://codepen.io/anon/pen/Cychk - Auto Fit Popover Menu Items
+
 ## Slide Box
    - http://codepen.io/calendee/pen/Kcxaw - Dynamic Slides
    - http://codepen.io/zarko/pen/OPMdxY/ - Improved Dynamic Slides
