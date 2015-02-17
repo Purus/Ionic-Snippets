@@ -6,6 +6,9 @@ As any other developer who is learning a new technology or tool, I faced difficu
 
 To help other learns like me, I am creating this repository to have a collection of all useful snippets.
 
+## Lazy Loading
+   - https://github.com/paveisistemas/ionic-image-lazy-load
+
 ## Network Connection
    - http://forum.ionicframework.com/t/ion-network-directive/4647
 
