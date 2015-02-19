@@ -18,6 +18,9 @@ To help other learns like me, I am creating this repository to have a collection
 ## Popover
    - http://codepen.io/anon/pen/Cychk - Auto Fit Popover Menu Items
 
+## Screenshot Capture
+   - https://github.com/gitawego/cordova-screenshot
+   
 ## Slide Box
    - http://codepen.io/calendee/pen/Kcxaw - Dynamic Slides
    - http://codepen.io/zarko/pen/OPMdxY/ - Improved Dynamic Slides
