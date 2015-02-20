@@ -11,6 +11,7 @@ To help other learns like me, I am creating this repository to have a collection
    - https://github.com/monospaced/angular-elastic - Elastic Input Box
    - http://codepen.io/rossmartin/pen/XJmpQr - Elastic Chat Example
    - https://github.com/alongubkin/angular-datepicker - Date And Time Picker
+   - https://github.com/rajeshwarpatlolla/ionic-timepicker - Time Picker
    - https://github.com/mhartington/ion-md-input - Material Design Input Text Boxes
    - https://github.com/sn0opr/ionic-autocomplete - Text Input Auto Complete
 
