@@ -28,12 +28,14 @@ To help other learns like me, I am creating this repository to have a collection
 
 ## Side Menu
    - http://codepen.io/matthoiland/pen/vHFCk - Wonderful Slide Menu
+   - http://codepen.io/mhartington/pen/uspzb - Peeking Side Menu
    
 ## Miscellaneous
    - http://forum.ionicframework.com/t/renaming-android-build-apk-from-cordovaapp-to-your-app-name/ - Change App Name
    - https://github.com/AnalogJ/matchmedia-ng - Match Media Wrapper for AngularJS
    - https://github.com/brentvatne/flix - Ionic Tinder
    - https://github.com/tyvdh/basic-ionic-timer - Timer for Ionic
+   - http://codepen.io/ionic/pen/AjgEB - App Tour
    
 ## Monetization
    - https://github.com/paypal/PayPal-Cordova-Plugin - PayPal plugin for Cordova
