@@ -29,6 +29,8 @@ To help other learns like me, I am creating this repository to have a collection
 ## Side Menu
    - http://codepen.io/matthoiland/pen/vHFCk - Wonderful Slide Menu
    - http://codepen.io/mhartington/pen/uspzb - Peeking Side Menu
+   - http://codepen.io/gnomeontherun/pen/tbvdH - Side Menu with Tabs - Version 1
+   - http://codepen.io/mircobabini/pen/gLkli - Side Menu with Tabs - Version 2
    
 ## Miscellaneous
    - http://forum.ionicframework.com/t/renaming-android-build-apk-from-cordovaapp-to-your-app-name/ - Change App Name
@@ -36,6 +38,7 @@ To help other learns like me, I am creating this repository to have a collection
    - https://github.com/brentvatne/flix - Ionic Tinder
    - https://github.com/tyvdh/basic-ionic-timer - Timer for Ionic
    - http://codepen.io/ionic/pen/AjgEB - App Tour
+   - http://codepen.io/ionic/pen/CbBsA - Signin before app
    
 ## Monetization
    - https://github.com/paypal/PayPal-Cordova-Plugin - PayPal plugin for Cordova
@@ -52,3 +55,6 @@ To help other learns like me, I am creating this repository to have a collection
 ## Slide Box
    - http://codepen.io/calendee/pen/Kcxaw - Dynamic Slides
    - http://codepen.io/zarko/pen/OPMdxY/ - Improved Dynamic Slides
+
+## Tabs
+   - http://codepen.io/perrygovier/pen/uJdBH - Bade on Tabs
